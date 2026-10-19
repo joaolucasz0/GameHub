@@ -1,0 +1,1 @@
+// Funcionalidades previstas para a Etapa 3.
